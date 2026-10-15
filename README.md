@@ -8,6 +8,8 @@ Papers are pinned to the wall beside the door. Walk outside a tavern, a guild ha
 
 Gold is about 50 to 120 for easy work, 130 to 300 for normal, 350 to 650 for dangerous, and 700 to 1150 for elite. Goods or a lesson can come with it. Dangerous work has a red seal. Elite work has a black seal.
 
+<img width="2539" height="1436" alt="Screenshot 2026-10-12 122122" src="https://github.com/user-attachments/assets/76ddf203-3861-4e26-81fd-a313845b6de2" />
+
 ## On the notices
 
 - Clear a nest that has moved into a nearby place.
