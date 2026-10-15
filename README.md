@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/33470959/README.md)
 # Odd Jobs
 
-Tester build 1.9.0 for OpenMW 0.51. You need Tamriel Data and Tamriel Rebuilt. Add the folder as a data directory and enable OddJobs.esp, then OddJobs.omwscripts.
+Tester build 1.9.0 for OpenMW 0.51. You need Tamriel Data and Tamriel Rebuilt aswell as Ui Toolkit Add the folder as a data directory and enable OddJobs.esp, then OddJobs.omwscripts.
 
 Papers are pinned to the wall beside the door. Walk outside a tavern, a guild hall, a Legion fort, an East Empire Company office, or a village inn and read what is posted. Take the job, do it, and come back to that notice to be paid. You can hold three jobs at once, and a fourth after you have finished fifteen. Until you have finished five, a board only posts a couple of jobs. The contract log key is unbound until you set it under Options, Scripts, Odd Jobs.
 
