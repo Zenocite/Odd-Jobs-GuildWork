@@ -1,3 +1,4 @@
+<img width="2560" height="1440" alt="thumb_A_title" src="https://github.com/user-attachments/assets/9409196e-892a-4882-bfe4-0e9bf7129e2a" />
 [README.md](https://github.com/user-attachments/files/33470959/README.md)
 # Odd Jobs
 
